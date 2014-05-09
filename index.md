@@ -8,7 +8,7 @@ Saint Louis, MO
 
 twitter: [@AndrewMutka](https://twitter.com/AndrewMutka)
 
-research: Virulence factors in bacterial plant pathogens, phenotypic analysis of plant disease
+research: virulence factors in bacterial plant pathogens, phenotypic analysis of plant disease
 
 
 
